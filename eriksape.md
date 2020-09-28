@@ -18,8 +18,11 @@
 Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I enjoy playing 🎮 videogames and taking 📸 photos.
 </div>
 
+
 <div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
+
+<div style="display: flex;">
+<img alt="GIF" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
 <div>hello</div>
 <div>
   
@@ -52,4 +55,5 @@ Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eriksape&show_icons=true&theme=highcontrast" alt="eriksape" />
 
 </details>
+</div>
 
