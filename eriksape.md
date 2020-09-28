@@ -1,4 +1,6 @@
 ### Hey my name is Erik Sanchez 🤝
+
+<div>
 <a href="https://twitter.com/eriksape">
   <img align="left" alt="eriksape | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -8,13 +10,17 @@
 <a href="https://www.instagram.com/eriksape/">
   <img align="left" alt="eriksape's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=eriksape)
 
-
+<div>
 Hi, I'm a Full Stack Developer 🚀 from Mexico🇲🇽. Beside's programming, I enjoy playing 🎮 videogames and taking 📸 photos.
+</div>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
+<div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/eriksape/eriksape/4b15d5f0ad9abd81c590fdd6c59e8ebd7d71f105/.github/assets/computer.svg" width="500" height="320" />
+<div>
   
 **Talking about Personal Stuffs:**
 
